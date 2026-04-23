@@ -134,11 +134,11 @@ After the Python analysis was completed, a cleaned dataset was exported and used
 
 The dashboard includes:
 - KPI cards
-- monthly sales trend
-- monthly profit trend
-- profit by category
-- profit by sub-category
+- sales by segment
 - sales by region
+- monthly progfit
+- profit by discount
+- profit by category
 
 ![Power BI Dashboard](images/09_powerbi_dashboard.png)
 
