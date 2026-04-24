@@ -1,3 +1,5 @@
+![Power BI Dashboard](images/09_powerbi_dashboard.png)
+
 # RetailPulse Sales Analytics
 
 ## Project Overview
